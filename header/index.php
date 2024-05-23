@@ -25,8 +25,8 @@
                         <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                             <div class="list-group">
                                 <a href="../over/index.php" class="list-group-item list-group-item-action">over mij</a>
-                                <a href="#" class="list-group-item list-group-item-action">CV</a>
-                                <a href="#" class="list-group-item list-group-item-action">socials</a>
+                                <a href="../CV/index.php" class="list-group-item list-group-item-action">CV</a>
+                                <a href="../socials/index.php" class="list-group-item list-group-item-action">contact</a>
                             </div><br>
                             <li class="nav-item  dropdown">
                                 <a class="nav-link list-group dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -35,7 +35,7 @@
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="https://rekenen.timschoot.nl/">reken website</a></li>
                                     <li><hr class="dropdown-divider"></li>
-                                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                                    <li><a class="dropdown-item" href="https://irritanteonepager.timschoot.nl">irritante onepager</a></li>
                                     <li><hr class="dropdown-divider"></li>
                                     <li><a class="dropdown-item" href="#">Something else here</a></li>
                                 </ul>

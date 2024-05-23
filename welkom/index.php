@@ -4,7 +4,7 @@
 <link href="../style.css" rel="stylesheet">
     <div id="welkom-card">
         <div class="card border-primary mb-3" style="max-width: 30rem;">
-            <div class="card-header"><H5>Welkom op de portfolio van Tim van der Schoot.</H5></div>
+            <div class="card-header text-bg-primary"><H5>Welkom op de portfolio van Tim van der Schoot.</H5></div>
             <div class="card-body">
                 <p class="card-text">Hallo!<br><br>
                     Mijn naam is Tim van der Schoot en ik ben een MBO 4 student Software Development.<br><br>
