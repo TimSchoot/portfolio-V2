@@ -3,16 +3,16 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link href="style.css" rel="stylesheet">
+    <link href="../style.css" rel="stylesheet">
 </head>
 <body>
 
     <header>
         <nav class="navbar bg-primary bg-body-tertiary fixed-top" data-bs-theme="dark">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">Tim van der Schoot</a>
+                <a class="navbar-brand" href="../welkom/index.php">Tim van der Schoot</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -24,7 +24,7 @@
                     <div class="offcanvas-body">
                         <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                             <div class="list-group">
-                                <a href="#" class="list-group-item list-group-item-action">over mij</a>
+                                <a href="../over/index.php" class="list-group-item list-group-item-action">over mij</a>
                                 <a href="#" class="list-group-item list-group-item-action">CV</a>
                                 <a href="#" class="list-group-item list-group-item-action">socials</a>
                             </div><br>
@@ -43,8 +43,8 @@
                         </ul>
                         <br>
                         <form class="d-flex mt-3" aria-disabled="true" role="search">
-                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                            <button class="btn btn-outline-success" type="submit">Search</button>
+                            <input disabled class="form-control me-2" type="search" placeholder="Search (buiten gebruik)" aria-label="Search">
+                            <button disabled class="btn btn-outline-success" type="submit">Search</button>
                         </form>
                     </div>
                 </div>
@@ -52,5 +52,3 @@
         </nav>
     </header>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-</body>
-</html>

@@ -1,0 +1,14 @@
+body {
+    background-image: url('img/wallpaper.png');
+    background-size: cover; /* Optional */
+    background-repeat: no-repeat; /* Optional */
+    background-position: center; /* Optional */
+    background-color: #0e1c31;
+}
+nav{
+    height: 10vh;
+}
+#welkom-card{
+    margin-top: 20vh;
+    margin-left: 15vw;
+}
