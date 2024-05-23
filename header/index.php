@@ -24,14 +24,13 @@
                     <div class="offcanvas-body">
                         <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                             <div class="list-group">
-                                <a href="#" class="list-group-item list-group-item-action">The current link item</a>
-                                <a href="#" class="list-group-item list-group-item-action">A second link item</a>
-                                <a href="#" class="list-group-item list-group-item-action">A third link item</a>
-                                <a href="#" class="list-group-item list-group-item-action">A fourth link item</a>
+                                <a href="#" class="list-group-item list-group-item-action">over mij</a>
+                                <a href="#" class="list-group-item list-group-item-action">CV</a>
+                                <a href="#" class="list-group-item list-group-item-action">socials</a>
                             </div><br>
                             <li class="nav-item  dropdown">
                                 <a class="nav-link list-group dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                    <B>Dropdown</B>
+                                    <B>Projecten</B>
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="https://rekenen.timschoot.nl/">reken website</a></li>
@@ -43,7 +42,7 @@
                             </li>
                         </ul>
                         <br>
-                        <form class="d-flex mt-3" role="search">
+                        <form class="d-flex mt-3" aria-disabled="true" role="search">
                             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
                             <button class="btn btn-outline-success" type="submit">Search</button>
                         </form>
@@ -52,7 +51,6 @@
             </div>
         </nav>
     </header>
-<script src="script.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
 </html>
