@@ -1,7 +1,6 @@
 <?php
     include '../header/index.php';
 ?>
-<link href="../style.css" rel="stylesheet">
     <div class="over">
         <div class="card border-primary mb-3" style="max-width: 40rem;">
             <div class="card-header text-bg-primary"><h5>Over mij</h5></div>

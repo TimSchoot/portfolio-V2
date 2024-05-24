@@ -1,7 +1,6 @@
 <?php
     include("../header/index.php");
 ?>
-<link href="../style.css" rel="stylesheet">
     <div id="welkom-card">
         <div class="card border-primary mb-3" style="max-width: 30rem;">
             <div class="card-header text-bg-primary"><H5>Welkom op de portfolio van Tim van der Schoot.</H5></div>

@@ -36,7 +36,9 @@
                                     <li><hr class="dropdown-divider"></li>
                                     <li><a class="dropdown-item" target="_blank" href="http://irritanteonepager.timschoot.nl">irritante onepager</a></li>
                                     <li><hr class="dropdown-divider"></li>
-                                    <li><a class="dropdown-item" target="_blank" href="https://github.com/TimSchoot/textAdventureGame">Text Adventure game (niet af)</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="http://webgame.timschoot.nl">Webgame</a></li>
+                                    <li><hr class="dropdown-divider"></li>
+                                    <li><a class="dropdown-item" target="_blank" href="https://github.com">github</a></li>
                                 </ul>
                             </li>
                         </ul>
