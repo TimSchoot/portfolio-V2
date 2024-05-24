@@ -25,7 +25,6 @@
                         <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                             <div class="list-group">
                                 <a href="../over/index.php" class="list-group-item list-group-item-action">over mij</a>
-                                <a href="../CV/index.php" class="list-group-item list-group-item-action">CV</a>
                                 <a href="../socials/index.php" class="list-group-item list-group-item-action">contact</a>
                             </div><br>
                             <li class="nav-item  dropdown">
@@ -33,11 +32,11 @@
                                     <B>Projecten</B>
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="https://rekenen.timschoot.nl/">reken website</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="http://rekenen.timschoot.nl/">reken website</a></li>
                                     <li><hr class="dropdown-divider"></li>
-                                    <li><a class="dropdown-item" href="https://irritanteonepager.timschoot.nl">irritante onepager</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="http://irritanteonepager.timschoot.nl">irritante onepager</a></li>
                                     <li><hr class="dropdown-divider"></li>
-                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="https://github.com/TimSchoot/textAdventureGame">Text Adventure game (niet af)</a></li>
                                 </ul>
                             </li>
                         </ul>

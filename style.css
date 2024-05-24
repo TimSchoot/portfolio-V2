@@ -8,6 +8,9 @@ body {
 nav{
     height: 10vh;
 }
+.card-body{
+    background-color: rgba(255, 255, 255, 0.5); /* White background with 50% transparency */
+}
 #welkom-card{
     margin-top: 15vh;
     margin-left: 15vw;
