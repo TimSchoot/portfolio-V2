@@ -1,6 +1,6 @@
 # Portfolio-V2
 
-Dit word mijn nieuwe portfolio.
+Dit is mijn nieuwe portfolio.
 
 omdat de vorige website een beetje chaos was en ik kan nu wat beter websites maken dacht ik ik begin overnieuw.
 
