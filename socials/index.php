@@ -2,7 +2,7 @@
 include("../header/index.php");
 ?>
     <div class="over">
-        <div class="card border-primary mb-3" style="max-width: 40rem;">
+        <div class="card border-primary mb-3" style="margin: auto; max-width: 40rem;">
             <div class="card-header text-bg-primary"><h5>contact</h5></div>
             <div class="card-body">
                 <p class="card-text">
