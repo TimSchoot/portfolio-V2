@@ -39,7 +39,7 @@
                                     <li><hr class="dropdown-divider"></li>
                                     <li><a class="dropdown-item" target="_blank" href="http://irritanteonepager.timschoot.nl">Irritante onepager</a></li>
                                     <li><hr class="dropdown-divider"></li>
-                                    <li><a class="dropdown-item" target="_blank" href="http://webgame.timschoot.nl">Webgame(kleine bug)</a></li>
+                                    <li><a class="dropdown-item" target="_blank" href="http://webgame.timschoot.nl">Webgame</a></li>
                                     <li><hr class="dropdown-divider"></li>
                                     <li><a class="dropdown-item" target="_blank" href="http://rekenrace.timschoot.nl">Reken race</a></li>
                                     <li><hr class="dropdown-divider"></li>
